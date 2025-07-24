@@ -1,0 +1,16 @@
+{
+  "name": "platzidate",
+  "version": "1.0.0",
+  "description": "Utilida para manejar fechas en Node.js",
+  "license": "MIT",
+  "author": "Jose Gonzalez <joseignacio4040@gmail.com>",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node src/main.js"
+  },
+  "dependencies": {
+    "is-number": "^7.0.0"
+  }
+}
